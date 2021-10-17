@@ -1,4 +1,4 @@
-# :ice_cube: **Awesome Physics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :milky_way: **Awesome Physics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
@@ -40,23 +40,23 @@
 
 ## :yin_yang: Programming
 
-- ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
-
 - ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
+
+- ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
 
 - ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
 
 - ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
 
+- ### :tv: [Differentiable Physics for Deep Learning Talk by Nils Thuerey](https://www.youtube.com/watch?v=BwuRTpTR2Rg&t=1428s)
+
 - ### :man_technologist: [DiffTaichi: Differentiable Programming for Physical Simulation](https://github.com/yuanming-hu/difftaichi)
 
 - ### :man_technologist: [PhiFlow: Differentiable PDE-solving Framework for Machine Learning](https://github.com/tum-pbs/phiflow)
 
-- ### :tv: [The Taichi Programming Language: Hands-On Tutorial SIGGRAPH Course by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
-
-- ### :tv: [Differentiable Physics for Deep Learning Talk by Nils Thuerey](https://www.youtube.com/watch?v=BwuRTpTR2Rg&t=1428s)
-
 - ### :tv: [Differentiable Physical Simulation and AI NeurIPS 2020 Workshop by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
+
+- ### :tv: [The Taichi Programming Language: Hands-On Tutorial SIGGRAPH Course by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
 
 <!-- MARKDOWN LINKS -->
 
