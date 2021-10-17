@@ -24,7 +24,7 @@
 ## Table of Contents
 
 - [:brain: Deep Learning](#brain-deep-learning)
-- [:yin_yang: Programming Tools](#yin_yang-programming-tools)
+- [:yin_yang: Programming](#yin_yang-programming)
 
 ## :brain: Deep Learning
 
