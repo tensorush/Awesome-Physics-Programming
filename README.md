@@ -23,8 +23,18 @@
 
 ## Table of Contents
 
+- [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
+- [:dragon: Computer Graphics](#brain-computer-graphics)
 - [:brain: Deep Learning](#brain-deep-learning)
 - [:yin_yang: Programming](#yin_yang-programming)
+
+## :eyeglasses: Augmented Reality
+
+- ### :man_technologist: [AR MultiPendulum: Multi-pendulum AR Headset Simulation Experience by Philip Turner](https://github.com/philipturner/ar-multipendulum)
+
+## :dragon: Computer Graphics
+
+- ### :tv: [Physics-Based Differentiable Rendering CVPR 2021 Tutorial](https://www.diff-render.org/)
 
 ## :brain: Deep Learning
 
