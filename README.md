@@ -58,6 +58,8 @@
 
 - ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
 
+- ### :man_technologist: [MuJoCo: Advanced Physics Simulation Engine by DeepMind](https://mujoco.org/)
+
 - ### :tv: [Differentiable Physics for Deep Learning Talk by Nils Thuerey](https://www.youtube.com/watch?v=BwuRTpTR2Rg&t=1428s)
 
 - ### :man_technologist: [DiffTaichi: Differentiable Programming for Physical Simulation](https://github.com/yuanming-hu/difftaichi)
