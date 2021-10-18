@@ -17,16 +17,16 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on physics programming in the form of videos, tutorials and frameworks.
+## :man_teacher: Collection of the most awesome learning resources on physics programming: AR, CG, Deep Learning and Computer Programming in the form of videos, tutorials and frameworks.
 
 > ### Contributions are very welcome! :hugs:
 
 ## Table of Contents
 
 - [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
-- [:dragon: Computer Graphics](#brain-computer-graphics)
+- [:dragon: Computer Graphics](#dragon-computer-graphics)
 - [:brain: Deep Learning](#brain-deep-learning)
-- [:yin_yang: Programming](#yin_yang-programming)
+- [:yin_yang: Computer Programming](#yin_yang-computer-programming)
 
 ## :eyeglasses: Augmented Reality
 
@@ -48,7 +48,7 @@
 
 - ### :tv: [Machine Learning for Physicists Lectures by Florian Marquardt](https://www.youtube.com/playlist?list=PLemsnf33Vij4eFWwtoQCrt9AHjLe3uo9_)
 
-## :yin_yang: Programming
+## :yin_yang: Computer Programming
 
 - ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
 
