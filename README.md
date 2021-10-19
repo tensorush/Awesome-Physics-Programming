@@ -64,6 +64,8 @@
 
 - ### :man_technologist: [DiffTaichi: Differentiable Programming for Physical Simulation](https://github.com/yuanming-hu/difftaichi)
 
+- ### :man_technologist: [MultiPendulum: Multi-pendulum Physics Simulation by Philip Turner](https://github.com/philipturner/MultiPendulum)
+
 - ### :man_technologist: [PhiFlow: Differentiable PDE-solving Framework for Machine Learning](https://github.com/tum-pbs/phiflow)
 
 - ### :tv: [Differentiable Physical Simulation and AI NeurIPS 2020 Workshop by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
