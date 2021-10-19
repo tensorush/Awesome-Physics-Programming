@@ -48,6 +48,8 @@
 
 - ### :tv: [Machine Learning for Physicists Lectures by Florian Marquardt](https://www.youtube.com/playlist?list=PLemsnf33Vij4eFWwtoQCrt9AHjLe3uo9_)
 
+- ### :man_technologist: [Tiny Differentiable Simulator for Reinforcement Learning and Robotics](https://github.com/google-research/tiny-differentiable-simulator)
+
 ## :yin_yang: Computer Programming
 
 - ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
@@ -57,6 +59,8 @@
 - ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
 
 - ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
+
+- ### :man_technologist: [BRAX: Differentiable Physics Engine written in JAX](https://github.com/google/brax)
 
 - ### :man_technologist: [MuJoCo: Advanced Physics Simulation Engine by DeepMind](https://mujoco.org/)
 
