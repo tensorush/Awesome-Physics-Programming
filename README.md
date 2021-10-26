@@ -10,7 +10,7 @@
 [![License][license-shield]][license-url]
 
 <p align="center">
-    <img src="https://bleuje.github.io/gifset/2021/gifs/2021_1_rollinggrid.gif">
+    <img src="https://bleuje.github.io/gifset/2021/gifs/2021_4_inverseprojection.gif">
 </p>
 
 <h4 align="center"> 
@@ -55,6 +55,8 @@
 - ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
 
 - ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
+
+- ### :tv: [Interactive Computer Graphics Research Lab](https://github.com/InteractiveComputerGraphics)
 
 - ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
 
