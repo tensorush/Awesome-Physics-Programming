@@ -56,7 +56,11 @@
 
 - ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
 
+- ### :man_technologist: [Bullet Physics: Multi-Physics Simulation](https://github.com/bulletphysics/bullet3)
+
 - ### :tv: [Interactive Computer Graphics Research Lab](https://github.com/InteractiveComputerGraphics)
+
+- ### :tv: [Computational Fluid Dynamics by braintruffle](https://www.youtube.com/c/braintruffle/videos)
 
 - ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
 
