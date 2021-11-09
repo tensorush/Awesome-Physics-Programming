@@ -56,6 +56,10 @@
 
 - ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
 
+- ### :man_technologist: [Computational Fluid Dynamics in JAX](https://github.com/google/jax-cfd)
+
+- ### :man_technologist: [Veros: Versatile Ocean Simulator in JAX](https://github.com/team-ocean/veros)
+
 - ### :man_technologist: [Bullet Physics: Multi-Physics Simulation](https://github.com/bulletphysics/bullet3)
 
 - ### :tv: [Interactive Computer Graphics Research Lab](https://github.com/InteractiveComputerGraphics)
@@ -67,6 +71,8 @@
 - ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
 
 - ### :man_technologist: [BRAX: Differentiable Physics Engine written in JAX](https://github.com/google/brax)
+
+- ### :man_technologist: [JAX Cosmo: Differentiable Cosmology Library in JAX](https://github.com/DifferentiableUniverseInitiative/jax_cosmo)
 
 - ### :man_technologist: [MuJoCo: Advanced Physics Simulation Engine by DeepMind](https://mujoco.org/)
 
