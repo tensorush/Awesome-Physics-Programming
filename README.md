@@ -50,6 +50,8 @@
 
 - ### :man_technologist: [Tiny Differentiable Simulator for Reinforcement Learning and Robotics](https://github.com/google-research/tiny-differentiable-simulator)
 
+- ### :tv: [Machine Learning for Computational Fluid Dynamics Lecture by Steve Brunton](https://www.youtube.com/watch?v=IXMSOSEj14Q)
+
 ## :yin_yang: Computer Programming
 
 - ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
