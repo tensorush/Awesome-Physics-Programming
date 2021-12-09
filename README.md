@@ -42,6 +42,8 @@
 
 - ### :book: [Physics-based Deep Learning Book](https://github.com/thunil/Physics-Based-Deep-Learning)
 
+- ### :globe_with_meridians: [The Physics of Energy-Based Models by Patrick Huembeli](https://physicsofebm.github.io/)
+
 - ### :tv: [Machine Learning for Physics and the Physics of Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SfQfS1rknFsr_UaaWpJ1EKA)
 
 - ### :card_file_box: [Physics-based Deep Learning Articles List by Nils Thuerey](https://github.com/thunil/Physics-Based-Deep-Learning)
