@@ -52,6 +52,8 @@
 
 - ### :tv: [Machine Learning for Physicists Lectures by Florian Marquardt](https://www.youtube.com/playlist?list=PLemsnf33Vij4eFWwtoQCrt9AHjLe3uo9_)
 
+- ### :man_technologist: [Neural Fluid Fields by Towaki Takikawa and Mohammad Mozaffari](https://github.com/tovacinni/neural-fluid-fields)
+
 - ### :man_technologist: [Tiny Differentiable Simulator for Reinforcement Learning and Robotics](https://github.com/google-research/tiny-differentiable-simulator)
 
 - ### :tv: [Machine Learning for Computational Fluid Dynamics Lecture by Steve Brunton](https://www.youtube.com/watch?v=IXMSOSEj14Q)
