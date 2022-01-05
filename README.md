@@ -36,6 +36,8 @@
 
 - ### :tv: [Physics-Based Differentiable Rendering CVPR 2021 Tutorial](https://www.diff-render.org/)
 
+- ### :book: [Game Physics in One Weekend Book Series by Gregory Hodges](https://gamephysicsweekend.github.io/)
+
 ## :brain: Deep Learning
 
 - ### :globe_with_meridians: [Physics ∩ ML Virtual Hub](http://www.physicsmeetsml.org/)
