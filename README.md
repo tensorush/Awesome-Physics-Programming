@@ -37,7 +37,7 @@
 
 - ### :tv: [Physics-Based Differentiable Rendering CVPR 2021 Tutorial](https://www.diff-render.org/)
 
-- ### :tv: [Non-Euclidean Rendering Engine for 3D scenes by CodeParade](https://github.com/HackerPoet/NonEuclidean)
+- ### :tv: [Non-Euclidean Rendering Engine for 3D Scenes by CodeParade](https://github.com/HackerPoet/NonEuclidean)
 
 - ### :book: [Game Physics in One Weekend Book Series by Gregory Hodges](https://gamephysicsweekend.github.io/)
 
@@ -61,9 +61,9 @@
 
 - ### :man_technologist: [JAX for Numerical Differential Equation Solvers](https://github.com/patrick-kidger/diffrax)
 
-- ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
-
 - ### :man_technologist: [BRAX: Differentiable Physics Engine written in JAX](https://github.com/google/brax)
+
+- ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
 
 - ### :man_technologist: [JAX Cosmo: Differentiable Cosmology Library in JAX](https://github.com/DifferentiableUniverseInitiative/jax_cosmo)
 
