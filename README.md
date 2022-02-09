@@ -37,6 +37,8 @@
 
 - ### :tv: [Physics-Based Differentiable Rendering CVPR 2021 Tutorial](https://www.diff-render.org/)
 
+- ### :tv: [Non-Euclidean Rendering Engine for 3D scenes by CodeParade](https://github.com/HackerPoet/NonEuclidean)
+
 - ### :book: [Game Physics in One Weekend Book Series by Gregory Hodges](https://gamephysicsweekend.github.io/)
 
 ## :yin_yang: Computer Programming
@@ -56,6 +58,8 @@
 - ### :tv: [Computational Fluid Dynamics by braintruffle](https://www.youtube.com/c/braintruffle/videos)
 
 - ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
+
+- ### :man_technologist: [JAX for Numerical Differential Equation Solvers](https://github.com/patrick-kidger/diffrax)
 
 - ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
 
