@@ -113,37 +113,37 @@
 
 - ### :man_technologist: [Quantum Computing Dojo by Amir Ebrahimi](https://github.com/amirebrahimi/quantumdojo)
 
+- ### :man_teacher: [Quantum Computation Course by John Preskill](http://theory.caltech.edu/~preskill/ph219/index.html)
+
 - ### :man_teacher: [Quantum Quest by Maris Ozols & Michael Walter](https://www.quantum-quest.nl/quantumquest-2021.pdf)
 
 - ### :man_teacher: [Quantum Machine Learning Course by Peter Wittek](https://github.com/qosf/qml-mooc)
+
+- ### :man_technologist: [Quantum Computing with Q# Tutorials by Microsoft](https://github.com/Microsoft/QuantumKatas/)
+
+- ### :card_file_box: [Full-Stack Quantum Computation Educational Resources](https://fullstackquantumcomputation.tech/)
+
+- ### :book: [Quantum Algorithm Implementations for Beginners Paper](https://arxiv.org/abs/1804.03719)
 
 - ### :man_teacher: [Quantum Computing Since Democritus Course by Scott Aaronson](https://www.scottaaronson.com/democritus/)
 
 - ### :book: [Quantum Algorithms for Data Science Book by Alessandro Luongo](https://quantumalgorithms.org/)
 
-- ### :book: [Quantum Algorithm Implementations for Beginners Paper](https://arxiv.org/abs/1804.03719)
-
-- ### :man_teacher: [Quantum Computation Course by John Preskill](http://theory.caltech.edu/~preskill/ph219/index.html)
-
-- ### :man_technologist: [Quantum Computing with Q# Tutorials by Microsoft](https://github.com/Microsoft/QuantumKatas/)
-
-- ### :man_technologist: [Quantum Computing with Qiskit Tutorials by Quantum Computing UK](https://quantumcomputinguk.org/)
-
-- ### :card_file_box: [Full-Stack Quantum Computation Educational Resources](https://fullstackquantumcomputation.tech/)
-
 - ### :tv: [Quantum Computing for the Determined by Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
-
-- ### :man_teacher: [Quantum Computing Programming Course by Dan Boneh and Will Zeng](https://cs269q.stanford.edu/syllabus.html)
 
 - ### :joystick: [Quirk: Quantum Circuit Simulator in Your Browser by Craig Gidney](https://algassert.com/quirk)
 
-- ### :joystick: [Interactive Introduction to Quantum Computing Blogpost by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
-
 - ### :tv: [Quantum Computation and Information Lectures by Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)
+
+- ### :man_technologist: [Quantum Computing with Qiskit Tutorials by Quantum Computing UK](https://quantumcomputinguk.org/)
 
 - ### :tv: [Introduction to Quantum Computing and Quantum Hardware by Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
 
 - ### :tv: [Quantum Computing for Computer Scientists Lecture by Andrew Helwer](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+
+- ### :man_teacher: [Quantum Computing Programming Course by Dan Boneh and Will Zeng](https://cs269q.stanford.edu/syllabus.html)
+
+- ### :joystick: [Interactive Introduction to Quantum Computing Blogpost by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
 
 - ### :man_technologist: [Monthly Quantum Computing Challanges by Quantum Open Source Foundation](https://github.com/qosf/monthly-challenges)
 
