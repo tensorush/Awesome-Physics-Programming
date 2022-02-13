@@ -125,13 +125,13 @@
 
 - ### :book: [Quantum Algorithm Implementations for Beginners Paper](https://arxiv.org/abs/1804.03719)
 
-- ### :man_teacher: [Quantum Computing Since Democritus Course by Scott Aaronson](https://www.scottaaronson.com/democritus/)
-
-- ### :book: [Quantum Algorithms for Data Science Book by Alessandro Luongo](https://quantumalgorithms.org/)
-
 - ### :tv: [Quantum Computing for the Determined by Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
 
+- ### :man_teacher: [Quantum Computing Since Democritus Course by Scott Aaronson](https://www.scottaaronson.com/democritus/)
+
 - ### :joystick: [Quirk: Quantum Circuit Simulator in Your Browser by Craig Gidney](https://algassert.com/quirk)
+
+- ### :book: [Quantum Algorithms for Data Science Book by Alessandro Luongo](https://quantumalgorithms.org/)
 
 - ### :tv: [Quantum Computation and Information Lectures by Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)
 
