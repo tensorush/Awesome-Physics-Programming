@@ -13,11 +13,11 @@
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_4_inverseprojection.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on physics programming: AR, CG, Deep Learning and Computer Programming in the form of videos, tutorials and frameworks.
+## :man_teacher: Collection of the most awesome learning resources on physics programming in the form of videos, tutorials and frameworks.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -66,6 +66,10 @@
 - ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
 
 - ### :man_technologist: [JAX Cosmo: Differentiable Cosmology Library in JAX](https://github.com/DifferentiableUniverseInitiative/jax_cosmo)
+
+- ### :tv: [Computational Fluid Dynamics Basics by József Nagy](https://www.youtube.com/playlist?list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
+
+- ### :tv: [Computational Fluid Dynamics Intermediate by József Nagy](https://www.youtube.com/playlist?list=PLcOe4WUSsMkGPdwCpZfKcpn7w-EkgAMB8)
 
 - ### :man_technologist: [MuJoCo: Advanced Physics Simulation Engine by DeepMind](https://mujoco.org/)
 
@@ -143,7 +147,7 @@
 
 - ### :man_teacher: [Quantum Computing Programming Course by Dan Boneh and Will Zeng](https://cs269q.stanford.edu/syllabus.html)
 
-- ### :joystick: [Interactive Introduction to Quantum Computing Blogpost by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
+- ### :joystick: [Interactive Introduction to Quantum Computing Blog post by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
 
 - ### :man_technologist: [Monthly Quantum Computing Challanges by Quantum Open Source Foundation](https://github.com/qosf/monthly-challenges)
 
