@@ -23,15 +23,10 @@
 
 ## Table of Contents
 
-- [:eyeglasses: Augmented Reality](#eyeglasses-augmented-reality)
 - [:dragon: Computer Graphics](#dragon-computer-graphics)
-- [:yin_yang: Computer Programming](#yin_yang-computer-programming)
 - [:brain: Deep Learning](#brain-deep-learning)
 - [:atom: Quantum Computing](#atom-quantum-computing)
-
-## :eyeglasses: Augmented Reality
-
-- ### :man_technologist: [AR MultiPendulum: Multi-pendulum AR Headset Simulation Experience by Philip Turner](https://github.com/philipturner/ar-multipendulum)
+- [:ocean: Simulation Programming](#ocean-simulation-programming)
 
 ## :dragon: Computer Graphics
 
@@ -40,50 +35,6 @@
 - ### :tv: [Non-Euclidean Rendering Engine for 3D Scenes by CodeParade](https://github.com/HackerPoet/NonEuclidean)
 
 - ### :book: [Game Physics in One Weekend Book Series by Gregory Hodges](https://gamephysicsweekend.github.io/)
-
-## :yin_yang: Computer Programming
-
-- ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
-
-- ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
-
-- ### :man_technologist: [Computational Fluid Dynamics in JAX](https://github.com/google/jax-cfd)
-
-- ### :man_technologist: [Veros: Versatile Ocean Simulator in JAX](https://github.com/team-ocean/veros)
-
-- ### :man_technologist: [Bullet Physics: Multi-Physics Simulation](https://github.com/bulletphysics/bullet3)
-
-- ### :tv: [Interactive Computer Graphics Research Lab](https://github.com/InteractiveComputerGraphics)
-
-- ### :tv: [Computational Fluid Dynamics by braintruffle](https://www.youtube.com/c/braintruffle/videos)
-
-- ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
-
-- ### :man_technologist: [JAX for Numerical Differential Equation Solvers](https://github.com/patrick-kidger/diffrax)
-
-- ### :man_technologist: [BRAX: Differentiable Physics Engine written in JAX](https://github.com/google/brax)
-
-- ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
-
-- ### :man_technologist: [JAX Cosmo: Differentiable Cosmology Library in JAX](https://github.com/DifferentiableUniverseInitiative/jax_cosmo)
-
-- ### :tv: [Computational Fluid Dynamics Basics by József Nagy](https://www.youtube.com/playlist?list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
-
-- ### :tv: [Computational Fluid Dynamics Intermediate by József Nagy](https://www.youtube.com/playlist?list=PLcOe4WUSsMkGPdwCpZfKcpn7w-EkgAMB8)
-
-- ### :man_technologist: [MuJoCo: Advanced Physics Simulation Engine by DeepMind](https://mujoco.org/)
-
-- ### :tv: [Differentiable Physics for Deep Learning Talk by Nils Thuerey](https://www.youtube.com/watch?v=BwuRTpTR2Rg&t=1428s)
-
-- ### :man_technologist: [DiffTaichi: Differentiable Programming for Physical Simulation](https://github.com/yuanming-hu/difftaichi)
-
-- ### :man_technologist: [MultiPendulum: Multi-pendulum Physics Simulation by Philip Turner](https://github.com/philipturner/MultiPendulum)
-
-- ### :man_technologist: [PhiFlow: Differentiable PDE-solving Framework for Machine Learning](https://github.com/tum-pbs/phiflow)
-
-- ### :tv: [Differentiable Physical Simulation and AI NeurIPS 2020 Workshop by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
-
-- ### :tv: [The Taichi Programming Language: Hands-On Tutorial SIGGRAPH Course by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
 
 ## :brain: Deep Learning
 
@@ -154,6 +105,52 @@
 - ### :joystick: [Quantum Computing for the Very Curious Interactive Article by Andy Matuschak and Michael Nielsen](https://quantum.country/qcvc)
 
 - ### :man_teacher: [Quantum Computing: from Basics to the Cutting Edge Coursera Specialization by Sergey Sysoev and others](https://www.coursera.org/specializations/quantum-computing-from-basics-to-the-cutting-edge)
+
+## :ocean: Simulation Programming
+
+- ### :man_technologist: [JAX for Molecular Dynamics](https://github.com/google/jax-md)
+
+- ### :man_technologist: [Taichi Programming Language](https://github.com/taichi-dev/taichi)
+
+- ### :man_technologist: [Computational Fluid Dynamics in JAX](https://github.com/google/jax-cfd)
+
+- ### :man_technologist: [Veros: Versatile Ocean Simulator in JAX](https://github.com/team-ocean/veros)
+
+- ### :man_technologist: [Bullet Physics: Multi-Physics Simulation](https://github.com/bulletphysics/bullet3)
+
+- ### :tv: [Interactive Computer Graphics Research Lab](https://github.com/InteractiveComputerGraphics)
+
+- ### :tv: [Computational Fluid Dynamics by braintruffle](https://www.youtube.com/c/braintruffle/videos)
+
+- ### :tv: [Let's Make a Physics Engine by Two-bit Coding](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)
+
+- ### :man_technologist: [JAX for Numerical Differential Equation Solvers](https://github.com/patrick-kidger/diffrax)
+
+- ### :man_technologist: [BRAX: Differentiable Physics Engine written in JAX](https://github.com/google/brax)
+
+- ### :tv: [Physics Programming Tutorials by Gustavo Oliveira](https://www.youtube.com/watch?v=erLT9HsllJU)
+
+- ### :man_technologist: [JAX Cosmo: Differentiable Cosmology Library in JAX](https://github.com/DifferentiableUniverseInitiative/jax_cosmo)
+
+- ### :tv: [Computational Fluid Dynamics Basics by József Nagy](https://www.youtube.com/playlist?list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
+
+- ### :tv: [Computational Fluid Dynamics Intermediate by József Nagy](https://www.youtube.com/playlist?list=PLcOe4WUSsMkGPdwCpZfKcpn7w-EkgAMB8)
+
+- ### :man_technologist: [MuJoCo: Advanced Physics Simulation Engine by DeepMind](https://mujoco.org/)
+
+- ### :tv: [Differentiable Physics for Deep Learning Talk by Nils Thuerey](https://www.youtube.com/watch?v=BwuRTpTR2Rg&t=1428s)
+
+- ### :man_technologist: [DiffTaichi: Differentiable Programming for Physical Simulation](https://github.com/yuanming-hu/difftaichi)
+
+- ### :man_technologist: [MultiPendulum: Multi-pendulum Physics Simulation by Philip Turner](https://github.com/philipturner/MultiPendulum)
+
+- ### :man_technologist: [PhiFlow: Differentiable PDE-solving Framework for Machine Learning](https://github.com/tum-pbs/phiflow)
+
+- ### :tv: [Differentiable Physical Simulation and AI NeurIPS 2020 Workshop by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
+
+- ### :tv: [The Taichi Programming Language: Hands-On Tutorial SIGGRAPH Course by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
+
+- ### :man_technologist: [CFD Python: 12 Steps to Navier-Stokes Equations by Lorena Barba and Gilbert Forsyth](https://github.com/barbagroup/CFDPython)
 
 <!-- MARKDOWN LINKS -->
 
