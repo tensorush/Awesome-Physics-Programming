@@ -70,9 +70,13 @@
 
 - ### :man_teacher: [Quantum Computation Course by John Preskill](http://theory.caltech.edu/~preskill/ph219/index.html)
 
+- ### :man_teacher: [Quantum Computing Course by Steven Herbert](https://www.cl.cam.ac.uk/teaching/2122/QuantComp/)
+
 - ### :man_teacher: [Quantum Quest by Maris Ozols & Michael Walter](https://www.quantum-quest.nl/quantumquest-2021.pdf)
 
 - ### :man_teacher: [Quantum Machine Learning Course by Peter Wittek](https://github.com/qosf/qml-mooc)
+
+- ### :writing_hand: [Quantum Algorithms Lecture Notes by Andrew Childs](http://www.cs.umd.edu/~amchilds/qa/qa.pdf)
 
 - ### :man_technologist: [Quantum Computing with Q# Tutorials by Microsoft](https://github.com/Microsoft/QuantumKatas/)
 
@@ -99,6 +103,8 @@
 - ### :man_teacher: [Quantum Computing Programming Course by Dan Boneh and Will Zeng](https://cs269q.stanford.edu/syllabus.html)
 
 - ### :joystick: [Interactive Introduction to Quantum Computing Blog post by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
+
+- ### :writing_hand: [Introduction to Quantum Information Science Lecture Notes by Scott Aaronson](https://www.scottaaronson.com/qclec.pdf)
 
 - ### :man_technologist: [Monthly Quantum Computing Challanges by Quantum Open Source Foundation](https://github.com/qosf/monthly-challenges)
 
