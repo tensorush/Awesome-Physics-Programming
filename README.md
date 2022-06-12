@@ -76,9 +76,9 @@
 
 - ### :man_teacher: [Quantum Machine Learning Course by Peter Wittek](https://github.com/qosf/qml-mooc)
 
-- ### :writing_hand: [Quantum Algorithms Lecture Notes by Andrew Childs](http://www.cs.umd.edu/~amchilds/qa/qa.pdf)
-
 - ### :man_technologist: [Quantum Computing with Q# Tutorials by Microsoft](https://github.com/Microsoft/QuantumKatas/)
+
+- ### :writing_hand: [Quantum Algorithms Lecture Notes by Andrew Childs](http://www.cs.umd.edu/~amchilds/qa/qa.pdf)
 
 - ### :card_file_box: [Full-Stack Quantum Computation Educational Resources](https://fullstackquantumcomputation.tech/)
 
@@ -147,8 +147,6 @@
 - ### :tv: [Differentiable Physics for Deep Learning Talk by Nils Thuerey](https://www.youtube.com/watch?v=BwuRTpTR2Rg&t=1428s)
 
 - ### :man_technologist: [DiffTaichi: Differentiable Programming for Physical Simulation](https://github.com/yuanming-hu/difftaichi)
-
-- ### :man_technologist: [MultiPendulum: Multi-pendulum Physics Simulation by Philip Turner](https://github.com/philipturner/MultiPendulum)
 
 - ### :man_technologist: [PhiFlow: Differentiable PDE-solving Framework for Machine Learning](https://github.com/tum-pbs/phiflow)
 
