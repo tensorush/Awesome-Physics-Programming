@@ -68,6 +68,8 @@
 
 - ### :man_technologist: [Quantum Computing Dojo by Amir Ebrahimi](https://github.com/amirebrahimi/quantumdojo)
 
+- ### :man_teacher: [Quantum Computation Course by Peter Shor](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)
+
 - ### :man_teacher: [Quantum Computation Course by John Preskill](http://theory.caltech.edu/~preskill/ph219/index.html)
 
 - ### :man_teacher: [Quantum Computing Course by Steven Herbert](https://www.cl.cam.ac.uk/teaching/2122/QuantComp/)
@@ -79,6 +81,8 @@
 - ### :man_technologist: [Quantum Computing with Q# Tutorials by Microsoft](https://github.com/Microsoft/QuantumKatas/)
 
 - ### :writing_hand: [Quantum Algorithms Lecture Notes by Andrew Childs](http://www.cs.umd.edu/~amchilds/qa/qa.pdf)
+
+- ### :man_teacher: [Quantum Complexity Theory Course by Scott Aaronson](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
 
 - ### :card_file_box: [Full-Stack Quantum Computation Educational Resources](https://fullstackquantumcomputation.tech/)
 
@@ -94,6 +98,8 @@
 
 - ### :tv: [Quantum Computation and Information Lectures by Ryan O'Donnell](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)
 
+- ### :man_teacher: [Quantum Information Science Course by Isaac Chuang and Peter Shor](https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/)
+
 - ### :man_technologist: [Quantum Computing with Qiskit Tutorials by Quantum Computing UK](https://quantumcomputinguk.org/)
 
 - ### :tv: [Introduction to Quantum Computing and Quantum Hardware by Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
@@ -101,6 +107,8 @@
 - ### :tv: [Quantum Computing for Computer Scientists Lecture by Andrew Helwer](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
 - ### :man_teacher: [Quantum Computing Programming Course by Dan Boneh and Will Zeng](https://cs269q.stanford.edu/syllabus.html)
+
+- ### :man_teacher: [Quantum Information Science Course by Isaac Chuang and Aram Harrow](https://ocw.mit.edu/courses/8-371x-quantum-information-science-ii-spring-2018/)
 
 - ### :joystick: [Interactive Introduction to Quantum Computing Blog post by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
 
