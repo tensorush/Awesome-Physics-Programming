@@ -1,4 +1,4 @@
-# :sunglasses: :milky_way: **Awesome Physics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :sunglasses: :comet: **Awesome Physics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
@@ -10,7 +10,7 @@
 [![License][license-shield]][license-url]
 
 <p align="center">
-    <img src="https://bleuje.github.io/gifset/2021/gifs/2021_4_inverseprojection.gif">
+    <img src="https://bleuje.github.io/gifset/2021/gifs/2021_6_revisionreworked.gif">
 </p>
 
 <h4 align="center">
