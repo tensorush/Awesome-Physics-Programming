@@ -88,6 +88,8 @@
 
 - ### :book: [Quantum Algorithm Implementations for Beginners Paper](https://arxiv.org/abs/1804.03719)
 
+- ### :tv: [Introduction to Quantum Information Science by Artur Ekert](https://www.youtube.com/c/ArturEkert/playlists)
+
 - ### :tv: [Quantum Computing for the Determined by Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
 
 - ### :man_teacher: [Quantum Computing Since Democritus Course by Scott Aaronson](https://www.scottaaronson.com/democritus/)
@@ -111,6 +113,8 @@
 - ### :man_teacher: [Quantum Information Science Course by Isaac Chuang and Aram Harrow](https://ocw.mit.edu/courses/8-371x-quantum-information-science-ii-spring-2018/)
 
 - ### :joystick: [Interactive Introduction to Quantum Computing Blog post by David Kemp](https://davidbkemp.github.io/QuantumComputingArticle/)
+
+- ### :tv: [Advanced Topics in Quantum Information Theory Videos by John Watrous](https://www.youtube.com/channel/UCfIfRmTLP8b0YODpudkf0tw/videos)
 
 - ### :writing_hand: [Introduction to Quantum Information Science Lecture Notes by Scott Aaronson](https://www.scottaaronson.com/qclec.pdf)
 
