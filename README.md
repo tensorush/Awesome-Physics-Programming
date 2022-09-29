@@ -1,13 +1,4 @@
-# :sunglasses: :comet: **Awesome Physics Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Physics-Programming/pulls)
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![License][license-shield]][license-url]
+# :sunglasses: :comet: **Awesome Physics Programming**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_6_revisionreworked.gif">
@@ -167,16 +158,3 @@
 - ### :tv: [The Taichi Programming Language: Hands-On Tutorial SIGGRAPH Course by Yuanming Hu](https://github.com/thunil/Physics-Based-Deep-Learning)
 
 - ### :man_technologist: [CFD Python: 12 Steps to Navier-Stokes Equations by Lorena Barba and Gilbert Forsyth](https://github.com/barbagroup/CFDPython)
-
-<!-- MARKDOWN LINKS -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-Physics-Programming.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-Physics-Programming/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-Physics-Programming.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-Physics-Programming/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-Physics-Programming.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-Physics-Programming/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-Physics-Programming.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-Physics-Programming/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-Physics-Programming.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-Physics-Programming/blob/master/LICENSE.md
