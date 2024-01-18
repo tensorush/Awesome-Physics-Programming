@@ -55,6 +55,8 @@
 
 - ### :tv: [Quantum Machine Learning by Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
 
+- ### :tv: [Intro to Quantum Computing by Kitty Yeung](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
+
 - ### :man_technologist: [Quantum Computing Dojo by Amir Ebrahimi](https://github.com/amirebrahimi/quantumdojo)
 
 - ### :man_teacher: [Quantum Computation Course by Peter Shor](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)
